@@ -1,9 +1,9 @@
 {
+  "generate": null,
+  "generate_from_json": null,
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-doxygen",
   "semver": false,
   "parser_version": "ccd998f378c3f9345ea4eeb223f56d7b84d16687",
   "location": null,
-  "lang": "doxygen",
-  "generate": null,
-  "generate_from_json": null
+  "lang": "doxygen"
 }
